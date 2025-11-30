@@ -1,4 +1,4 @@
-**There is 2 notebook included **
+**There is 2 notebook included**
 
 1.group8_preprocess_exploratory_ml.ipynb
 
@@ -8,7 +8,7 @@ Preprocess notbook where the dataset is cleaned and the the final datatset is ge
 
 This notebook includes the machine learning elements
 
-**Final dataset **
+**Final dataset**
 
 TRO_CO2_estimates.csv
 
